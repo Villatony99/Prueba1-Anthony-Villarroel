@@ -1,5 +1,6 @@
 const express =require('express');
 
+
 //generar aplicacion express
 const app = express()
 

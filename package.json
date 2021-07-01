@@ -7,7 +7,7 @@
         "dev": "nodemon"
     },
     "keywords": [],
-    "author": "Geovanny G. Arguello",
+    "author": "Anthony V",
     "license": "ISC",
     "dependencies": {
         "axios": "0.21.1",
